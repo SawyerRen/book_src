@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch07/unit/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/HEAD_FIRST设计模式（中文版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/headfirstDesignPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch07/unit/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch07/unit/Unit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/headfirstDesignPattern" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -47,11 +61,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/headfirstDesignPattern" />
       <recent name="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02" />
       <recent name="$PROJECT_DIR$/headfirstOOAD/src/ch05" />
       <recent name="$PROJECT_DIR$/headfirstOOAD/src/ch04" />
       <recent name="$PROJECT_DIR$/headfirstOOAD/src/ch01" />
-      <recent name="$PROJECT_DIR$/headfirstOOAD" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/headfirstOOAD" />
@@ -62,6 +76,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.MiniDuckSimulator" />
+      <module name="headfirstDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -75,6 +96,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimulator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622183829283</updated>
       <workItem from="1622183830370" duration="2311000" />
-      <workItem from="1622187766105" duration="17214000" />
+      <workItem from="1622187766105" duration="21371000" />
     </task>
     <servers />
   </component>
