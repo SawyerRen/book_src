@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/HEAD_FIRST设计模式（中文版）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/headfirstDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Squeak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/CurrentConditionDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/CurrentConditionDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/WeatherData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,15 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1622183829283</updated>
       <workItem from="1622183830370" duration="2311000" />
-      <workItem from="1622187766105" duration="21371000" />
+      <workItem from="1622187766105" duration="23270000" />
+      <workItem from="1622457411114" duration="1642000" />
     </task>
     <servers />
   </component>
