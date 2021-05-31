@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/InstrumentSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/InstrumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Wood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch07/board/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch07/board/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch07/unit/Unit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/GuitarSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/GuitarSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/InstrumentSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/InstrumentSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Mandolin.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Mandolin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/MandolinSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/MandolinSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Style.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Style.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Wood.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622183829283</updated>
       <workItem from="1622183830370" duration="2311000" />
-      <workItem from="1622187766105" duration="11259000" />
+      <workItem from="1622187766105" duration="15191000" />
     </task>
     <servers />
   </component>
