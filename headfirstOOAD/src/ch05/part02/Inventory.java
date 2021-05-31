@@ -1,16 +1,16 @@
-package ch05;
+package ch05.part02;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Inventory {
-    private List<Instrument> inventory;
+    private final List<Instrument> inventory;
 
     public Inventory(List<Instrument> inventory) {
         this.inventory = inventory;
     }
 
-    public Instrument getGuitar(String serialNumber) {
+    public Instrument getInstrument(String serialNumber) {
         for (Instrument instrument : inventory) {
             if (instrument.getSerialNumber().equals(serialNumber)) return instrument;
         }
@@ -21,11 +21,11 @@ public class Inventory {
         inventory.add(instrument);
     }
 
-    public List<Guitar> search(GuitarSpec guitarSpec) {
-        List<Guitar> res = new ArrayList<>();
+    public List<Instrument> search(InstrumentSpec instrumentSpec) {
+        List<Instrument> res = new ArrayList<>();
         for (Instrument instrument : this.inventory) {
-            if (guitarSpec.matches(instrument.getInstrumentSpec()))
-                res.add((Guitar) instrument);
+            if (instrumentSpec.matches(instrument.getInstrumentSpec()))
+                res.add(instrument);
         }
         return res;
     }

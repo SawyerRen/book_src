@@ -1,13 +1,15 @@
-package ch05;
+package ch05.part02;
 
-public abstract class Instrument {
+public class Instrument {
     private String serialNumber;
     private double price;
+    private InstrumentType instrumentType;
     private InstrumentSpec instrumentSpec;
 
-    public Instrument(String serialNumber, double price, InstrumentSpec instrumentSpec) {
+    public Instrument(String serialNumber, double price, InstrumentType instrumentType, InstrumentSpec instrumentSpec) {
         this.serialNumber = serialNumber;
         this.price = price;
+        this.instrumentType = instrumentType;
         this.instrumentSpec = instrumentSpec;
     }
 
@@ -33,5 +35,13 @@ public abstract class Instrument {
 
     public void setInstrumentSpec(InstrumentSpec instrumentSpec) {
         this.instrumentSpec = instrumentSpec;
+    }
+
+    public InstrumentType getInstrumentType() {
+        return instrumentType;
+    }
+
+    public void setInstrumentType(InstrumentType instrumentType) {
+        this.instrumentType = instrumentType;
     }
 }

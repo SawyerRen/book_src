@@ -1,4 +1,4 @@
-package ch05;
+package ch05.part02;
 
 public enum Wood {
     INDIAN_ROSEWOOD, BRAZILIAN_ROSEWOOD, MAHOGANY, MAPLE, COCOBOLO, CEDAR, ADIRONDACK, ALDER, SITKA;

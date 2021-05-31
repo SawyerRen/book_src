@@ -1,4 +1,4 @@
-package ch05;
+package ch05.part01;
 
 public class GuitarSpec extends InstrumentSpec {
 

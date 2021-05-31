@@ -1,4 +1,4 @@
-package ch05;
+package ch05.part02;
 
 public enum Type {
     ACOUSTIC, ELECTRIC;

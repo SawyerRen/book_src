@@ -1,4 +1,4 @@
-package ch05;
+package ch05.part01;
 
 public abstract class InstrumentSpec {
     private Builder builder;
