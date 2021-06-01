@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/CurrentConditionDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/CurrentConditionDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Mocha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +100,7 @@
       <updated>1622183829283</updated>
       <workItem from="1622183830370" duration="2311000" />
       <workItem from="1622187766105" duration="23270000" />
-      <workItem from="1622457411114" duration="1642000" />
+      <workItem from="1622457411114" duration="3650000" />
     </task>
     <servers />
   </component>
