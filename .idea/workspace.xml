@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Amplifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/CdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/DvdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/PopcornPopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Projector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/TheaterLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Tuner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +113,7 @@
       <workItem from="1622183830370" duration="2311000" />
       <workItem from="1622187766105" duration="23270000" />
       <workItem from="1622457411114" duration="7294000" />
-      <workItem from="1622602101532" duration="6614000" />
+      <workItem from="1622602101532" duration="8504000" />
     </task>
     <servers />
   </component>
