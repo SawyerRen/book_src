@@ -2,84 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch06_command/simple/RemoteControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/FlyRocketPowered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/MiniDuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch01_strategy/Squeak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v1/CurrentConditionDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v1/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v1/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v1/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v1/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v1/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v2/CurrentConditionDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02/v2/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch02_observer/v2/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03_decorator/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03_decorator/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03_decorator/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03_decorator/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch03_decorator/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/NYIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/NYIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/ingredient/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/ingredient/Clams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/ingredient/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/ingredient/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/ingredient/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/ingredient/Pepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/ingredient/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/ingredient/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/abstractfactory/ingredient/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/abstractfactory/ingredient/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/NYStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/factorymethod/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/factorymethod/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/simplefactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/simplefactory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04/simplefactory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch04_factory/simplefactory/SimplePizzaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch05/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch05_singleton/ChocolateBoiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstDesignPattern/src/ch05/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch05_singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/FindGuitarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/FindGuitarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/GuitarSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/GuitarSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch01/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch01_strategy/Wood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch02/DogDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch02_observer/DogDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch02/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch02_observer/Remote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch03/BarkRecognizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch03_decorator/BarkRecognizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch03/DogDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch03_decorator/DogDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch03/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch03_decorator/Remote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch04/Bark.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch04_factory/Bark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch04/BarkRecognizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch04_factory/BarkRecognizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch04/DogDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch04_factory/DogDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch04/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch04_factory/Remote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Guitar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/GuitarSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/GuitarSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/InstrumentSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/InstrumentSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Mandolin.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Mandolin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/MandolinSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/MandolinSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Style.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Style.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part01/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part01/Wood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/InstrumentSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/InstrumentSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/InstrumentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/InstrumentType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Style.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Style.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headfirstOOAD/src/ch05/part02/Wood.java" beforeDir="false" afterPath="$PROJECT_DIR$/headfirstOOAD/src/ch05_singleton/part02/Wood.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +103,7 @@
       <workItem from="1622183830370" duration="2311000" />
       <workItem from="1622187766105" duration="23270000" />
       <workItem from="1622457411114" duration="7294000" />
-      <workItem from="1622602101532" duration="4384000" />
+      <workItem from="1622602101532" duration="6614000" />
     </task>
     <servers />
   </component>
