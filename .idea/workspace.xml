@@ -2,20 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25af2957-e831-475b-b8ce-924c36b4617b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/adapter/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Amplifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/DvdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/PopcornPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/TheaterLights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch07/facade/Tuner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch08_template_method/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch08_template_method/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch08_template_method/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/composite/CompositeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/composite/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/composite/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/composite/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/iterator/ArrayMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/iterator/ListMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch09_iterators_composite/iterator/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch10_state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch11_proxy/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch11_proxy/GumballMachineRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch11_proxy/GumballMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch11_proxy/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/AbstractDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/CountingDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/DuckCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/DuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/Flock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/GooseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/QuackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/QuackObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/RedHeadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/duck/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/BPMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/BeatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/BeatModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/BeatModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/BeatObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/ControllerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/headfirstDesignPattern/src/ch12_compound/mvc/DJView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +97,8 @@
       <recent name="$PROJECT_DIR$/headfirstOOAD" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch11_proxy" />
+      <recent name="ch09_iterators_composite.composite" />
       <recent name="ch04.factorymethod" />
       <recent name="ch05" />
       <recent name="ch03" />
@@ -83,15 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,7 +140,8 @@
       <workItem from="1622183830370" duration="2311000" />
       <workItem from="1622187766105" duration="23270000" />
       <workItem from="1622457411114" duration="7294000" />
-      <workItem from="1622602101532" duration="8504000" />
+      <workItem from="1622602101532" duration="18241000" />
+      <workItem from="1622695667251" duration="5489000" />
     </task>
     <servers />
   </component>

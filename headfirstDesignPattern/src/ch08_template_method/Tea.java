@@ -1,0 +1,13 @@
+package ch08_template_method;
+
+public class Tea extends Beverage{
+    @Override
+    protected void addCondiments() {
+
+    }
+
+    @Override
+    protected void brew() {
+
+    }
+}
